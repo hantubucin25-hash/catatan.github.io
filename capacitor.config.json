@@ -1,1 +1,5 @@
-
+{
+  "appId": "com.pencatat.keuangan",
+  "appName": "Pencatat Keuangan",
+  "webDir": "www"
+}
